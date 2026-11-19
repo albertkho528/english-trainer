@@ -1,0 +1,120 @@
+academia|n|ˌækəˈdiːmiə|the world of universities, research and scholars|academe,scholarship|industry|After ten years in [academia], she moved to a job at an investment bank.|Many quants come from [academia] with PhDs in physics or maths.
+accelerate|v|əkˈseləreɪt|to happen or make something happen faster|speed up,quicken,hasten|slow down,decelerate|The government wants to [accelerate] the shift to clean energy.|Inflation [accelerated] sharply in the second half of the year.
+acceleration|n|əkˌseləˈreɪʃn|an increase in the speed at which something happens|speeding up,quickening|slowdown,deceleration|The [acceleration] of urban growth put pressure on housing.|Electric cars are famous for their rapid [acceleration].
+accessible|adj|əkˈsesəbl|easy to reach, enter, use or understand|available,reachable,approachable|inaccessible,remote|The museum is fully [accessible] to wheelchair users.|She explains complex finance in an [accessible] way.
+acclaim|n|əˈkleɪm|great public praise for something or someone|praise,applause,recognition|criticism,condemnation|The documentary won international [acclaim].|Her first novel was received with critical [acclaim].
+accommodate|v|əˈkɒmədeɪt|to provide space for; to adapt to someone's needs|house,hold,adapt to|exclude|The new stadium can [accommodate] 60,000 spectators.|The school tries to [accommodate] students with different learning needs.
+accomplish|v|əˈkʌmplɪʃ|to succeed in doing something, especially after effort|achieve,complete,attain|fail|We [accomplished] everything we set out to do this term.|Working together, the team can [accomplish] remarkable goals.
+accumulate|v|əˈkjuːmjəleɪt|to gradually collect or increase in amount|gather,amass,build up|disperse,scatter|Over the years he [accumulated] a large collection of books.|Dust had [accumulated] on the old shelves.
+accuracy|n|ˈækjərəsi|the quality of being correct or exact|precision,correctness,exactness|inaccuracy,error|The [accuracy] of weather forecasts has improved greatly.|Check your data for [accuracy] before running the model.
+adaptable|adj|əˈdæptəbl|able to change to suit new situations|flexible,versatile,adjustable|rigid,inflexible|Employers want staff who are [adaptable] and quick to learn.|This crop is [adaptable] to dry climates.
+adorn|v|əˈdɔːn|to decorate something to make it more beautiful|decorate,embellish,ornament|strip|Colourful lanterns [adorned] the streets during the festival.|Her dress was [adorned] with tiny pearls.
+aerial|adj|ˈeəriəl|from or in the air, especially from a plane or drone|airborne,overhead|ground-level|[Aerial] photos showed the scale of the flooding.|Drones now make [aerial] filming cheap.
+aerospace|n|ˈeərəʊspeɪs|the industry that designs and builds aircraft and spacecraft|aviation,space industry||China's [aerospace] sector has grown rapidly.|He works as an engineer in [aerospace].
+aesthetics|n|iːsˈθetɪks|the principles of beauty and artistic taste|artistry,style,beauty||The building combines function with [aesthetics].|Website [aesthetics] influence how users feel.
+affirm|v|əˈfɜːm|to state firmly or publicly that something is true or that you support it|confirm,declare,assert|deny,reject|The leaders [affirmed] their commitment to peace.|The court [affirmed] the earlier decision.
+aftermath|n|ˈɑːftəmæθ|the period after a bad event and its effects|consequences,aftereffects,wake|prelude|In the [aftermath] of the earthquake, volunteers rushed to help.|Markets were volatile in the [aftermath] of the crisis.
+aggregate|adj|ˈæɡrɪɡət|formed by adding together several amounts|total,combined,overall|individual|[Aggregate] demand fell during the recession.|The team won 4–2 on [aggregate].
+alert|adj|əˈlɜːt|quick to notice and react; watchful|watchful,attentive,vigilant|unaware,careless|Drivers must stay [alert] on long journeys.|An [alert] guard noticed the open door.
+align|v|əˈlaɪn|to arrange things in a line or to bring into agreement|line up,match,coordinate|misalign|The company [aligned] its goals with national policy.|Make sure the text is [aligned] to the left.
+alleyway|n|ˈæliweɪ|a narrow street or passage between buildings|alley,lane,passage|avenue,boulevard|We wandered through the old [alleyways] of Beijing.|A cat ran down the dark [alleyway].
+altitude|n|ˈæltɪtjuːd|height above sea level|elevation,height|depth|Breathing is harder at high [altitude].|The plane flew at an [altitude] of 10,000 metres.
+ambassador|n|æmˈbæsədə|an official representative of a country, or a person who represents an idea|envoy,representative,diplomat||The [ambassador] met the president to discuss trade.|She acts as an [ambassador] for her university abroad.
+analysis|n|əˈnæləsɪs|detailed examination of something to understand it|examination,study,evaluation|synthesis|Our [analysis] shows that returns depend on volatility.|The report gives a careful [analysis] of the data.
+applause|n|əˈplɔːz|clapping to show approval|clapping,ovation,acclaim|booing|The speech ended to loud [applause].|The audience broke into [applause].
+appreciation|n|əˌpriːʃiˈeɪʃn|gratitude; understanding of value; an increase in value|gratitude,recognition,thanks|ingratitude,depreciation|I want to express my [appreciation] for your help.|Travel gives you a deeper [appreciation] of other cultures.
+apprenticeship|n|əˈprentɪʃɪp|a period of learning a job by working for an experienced person|traineeship,training,internship||He did a three-year [apprenticeship] as an electrician.|[Apprenticeships] combine study with real work.
+approximately|adv|əˈprɒksɪmətli|close to but not exactly|roughly,about,around|exactly,precisely|The journey takes [approximately] two hours.|[Approximately] 30% of students study abroad.
+archeological|adj|ˌɑːkiəˈlɒdʒɪkl|related to the study of ancient remains|archaeological||The [archeological] site dates back 3,000 years.|An [archeological] team found ancient pottery.
+archeologist|n|ˌɑːkiˈɒlədʒɪst|a person who studies ancient societies by examining their remains|excavator||[Archeologists] uncovered a tomb near the river.|The [archeologist] carefully cleaned the bones.
+architecture|n|ˈɑːkɪtektʃə|the art and style of designing buildings; the design of a system|design,structure,building style||Beijing's [architecture] mixes old and new.|The software's [architecture] is easy to extend.
+archive|n|ˈɑːkaɪv|a collection of historical records or the place they are kept|records,repository,collection||The library keeps an [archive] of old newspapers.|She searched the online [archive] for the article.
+artifact|n|ˈɑːtɪfækt|an object made by people, especially of historical interest|relic,object,remnant||The museum displays [artifacts] from the Tang dynasty.|Each [artifact] tells us how people lived.
+ascend|v|əˈsend|to go up or climb|climb,rise,mount|descend|The climbers [ascended] the mountain at dawn.|The balloon slowly [ascended] into the sky.
+aspiration|n|ˌæspəˈreɪʃn|a strong hope or ambition|ambition,goal,dream||His [aspiration] is to work in quantitative finance.|The policy meets the [aspirations] of young people.
+assemble|v|əˈsembl|to gather together, or to put the parts of something together|gather,construct,put together|disperse,dismantle|Workers [assemble] the cars on a production line.|Students [assembled] in the hall for the ceremony.
+asset|n|ˈæset|something valuable or useful; property owned|resource,advantage,property|liability|Her language skills are a great [asset] to the team.|The fund invests in a range of [assets].
+astronomy|n|əˈstrɒnəmi|the scientific study of stars, planets and space|stargazing,cosmology||He became interested in [astronomy] as a child.|[Astronomy] helps us understand the universe.
+attribute|v|əˈtrɪbjuːt|to say that something is caused by or belongs to someone or something|ascribe,credit,assign||She [attributes] her success to hard work.|The painting is [attributed] to a Song dynasty artist.
+attuned|adj|əˈtjuːnd|able to understand and respond to something|sensitive,aware,adjusted|oblivious|Good teachers are [attuned] to students' needs.|Our ears gradually became [attuned] to the accent.
+auspices|n|ˈɔːspɪsɪz|support or protection (under the auspices of)|patronage,sponsorship,support||The talks were held under the [auspices] of the UN.|The project runs under the [auspices] of the ministry.
+authenticity|n|ˌɔːθenˈtɪsəti|the quality of being real or genuine|genuineness,originality|fakeness|Experts questioned the [authenticity] of the painting.|Tourists value the [authenticity] of local food.
+automated|adj|ˈɔːtəmeɪtɪd|operated by machines or computers instead of people|automatic,mechanized|manual|The factory has a fully [automated] assembly line.|[Automated] trading now dominates the market.
+automation|n|ˌɔːtəˈmeɪʃn|the use of machines and computers to do work|mechanization,computerization||[Automation] has changed many manufacturing jobs.|We used [automation] to save hours of data entry.
+automobile|n|ˈɔːtəməbiːl|a car|car,vehicle,motor car||The [automobile] changed the shape of cities.|He collects classic [automobiles].
+automotive|adj|ˌɔːtəˈməʊtɪv|relating to cars and their manufacture|car||The [automotive] industry is moving towards electric vehicles.|She works for an [automotive] supplier.
+auxiliary|adj|ɔːɡˈzɪliəri|giving extra help or support|supplementary,additional,backup|main,primary|The hospital has an [auxiliary] power system.|"Have" is an [auxiliary] verb in "I have eaten".
+await|v|əˈweɪt|to wait for; to be about to happen to someone|expect,wait for,anticipate||Exciting challenges [await] you at university.|We [await] your reply.
+batch|n|bætʃ|a group of things or people dealt with together|group,set,lot||She baked a [batch] of cookies.|The first [batch] of students arrived on Monday.
+bedrock|n|ˈbedrɒk|the basic principles or facts on which something is built|foundation,cornerstone,basis||Trust is the [bedrock] of any partnership.|Maths is the [bedrock] of financial engineering.
+beloved|adj|bɪˈlʌvɪd|loved very much|dear,cherished,adored|hated,despised|The panda is China's [beloved] national animal.|He returned to his [beloved] hometown.
+benchmark|n|ˈbentʃmɑːk|a standard used for comparison|standard,yardstick,reference point||The S&P 500 is a common [benchmark] for fund performance.|The new phone sets a [benchmark] for battery life.
+beneficial|adj|ˌbenɪˈfɪʃl|having a good effect|helpful,advantageous,useful|harmful,detrimental|Regular exercise is [beneficial] to health.|The trade deal is [beneficial] to both countries.
+beverage|n|ˈbevərɪdʒ|a drink, especially one other than water|drink||Hot [beverages] are served in the lounge.|The company sells soft [beverages].
+biodiversity|n|ˌbaɪəʊdaɪˈvɜːsəti|the variety of plants and animals in an area|biological diversity||Deforestation threatens [biodiversity].|Wetlands support rich [biodiversity].
+biomedical|adj|ˌbaɪəʊˈmedɪkl|relating to biology and medicine together|||She studies [biomedical] engineering.|[Biomedical] research led to a new vaccine.
+blend|v|blend|to mix things together|mix,combine,merge|separate|[Blend] the fruit with yogurt.|The design [blends] tradition with modern style.
+blockchain|n|ˈblɒktʃeɪn|a digital record of transactions shared across many computers|distributed ledger||Bitcoin runs on a [blockchain].|Banks are testing [blockchain] for payments.
+blossom|v|ˈblɒsəm|to produce flowers; to develop well|flourish,bloom,thrive|wither,decline|The cherry trees [blossom] in April.|Their friendship [blossomed] at university.
+boast|v|bəʊst|to have something impressive; to talk too proudly about yourself|brag,show off,possess|be modest|The city [boasts] over a hundred museums.|He likes to [boast] about his grades.
+bolster|v|ˈbəʊlstə|to support or strengthen|strengthen,reinforce,boost|weaken,undermine|The good news [bolstered] investor confidence.|They hired more staff to [bolster] the team.
+boundless|adj|ˈbaʊndləs|without limits|limitless,infinite,unlimited|limited,finite|Children have [boundless] energy.|She showed [boundless] enthusiasm for the project.
+brand|n|brænd|a product name or the identity of a company|label,trademark,make||Huawei is a well-known Chinese [brand].|Building a personal [brand] helps your career.
+breakthrough|n|ˈbreɪkθruː|an important new discovery or development|advance,discovery,leap|setback|Scientists made a [breakthrough] in cancer treatment.|Every challenge is a chance for a [breakthrough].
+breathtaking|adj|ˈbreθteɪkɪŋ|extremely beautiful or impressive|stunning,spectacular,amazing|dull,ordinary|The view from the summit was [breathtaking].|The city has grown at a [breathtaking] pace.
+brew|v|bruː|to make tea, coffee or beer; (of trouble) to develop|make,steep,ferment||She [brewed] a pot of tea.|A storm was [brewing] over the sea.
+broaden|v|ˈbrɔːdn|to make wider or include more|widen,expand,extend|narrow,restrict|Studying abroad [broadens] your horizons.|The firm [broadened] its range of products.
+buoy|v|bɔɪ|to make someone feel more cheerful or confident|lift,encourage,boost|discourage,depress|She was [buoyed] by her exam results.|Strong sales [buoyed] the share price.
+bustling|adj|ˈbʌslɪŋ|full of busy activity|busy,lively,crowded|quiet,deserted|We walked through the [bustling] market.|Shanghai is a [bustling] city.
+buzzword|n|ˈbʌzwɜːd|a word that becomes fashionable, often used too much|catchword,jargon||"Synergy" is a business [buzzword].|AI is the [buzzword] of the year.
+calamity|n|kəˈlæməti|a sudden event causing great damage|disaster,catastrophe,tragedy|blessing|The flood was the worst [calamity] in decades.|Losing the data would be a [calamity].
+capture|v|ˈkæptʃə|to catch; to represent something accurately in words or pictures|seize,record,depict|release,free|The photo [captures] the beauty of the mountains.|Police [captured] the thief.
+cardamom|n|ˈkɑːdəməm|a spice with a strong sweet smell, from seeds of an Asian plant|||Masala chai is flavoured with [cardamom].|Add a pinch of [cardamom] to the rice.
+casualty|n|ˈkæʒuəlti|a person killed or injured in an accident or war; someone or something harmed|victim,fatality,loss|survivor|The storm caused several [casualties].|Small shops were a [casualty] of online shopping.
+catastrophic|adj|ˌkætəˈstrɒfɪk|causing sudden terrible damage|disastrous,devastating,ruinous|minor,beneficial|The drought had [catastrophic] effects on farming.|A [catastrophic] system failure stopped trading.
+ceremony|n|ˈserəməni|a formal public event|ritual,celebration,service||The graduation [ceremony] was held in June.|The opening [ceremony] amazed the world.
+chai|n|tʃaɪ|tea made with milk and spices, popular in India|masala tea||He drinks a cup of [chai] every morning.|Street sellers serve [chai] in clay cups.
+charm|n|tʃɑːm|a quality that makes people like or feel attracted to something|appeal,attraction,allure|unpleasantness|The old town has a special [charm].|He won them over with his [charm].
+cherished|adj|ˈtʃerɪʃt|loved and protected; kept carefully|treasured,beloved,precious|unwanted|These photos are my most [cherished] possessions.|Freedom is a [cherished] value.
+chic|adj|ʃiːk|fashionable and elegant|stylish,elegant,fashionable|unfashionable,dowdy|She opened a [chic] café near campus.|The hotel has a [chic] modern interior.
+civic|adj|ˈsɪvɪk|relating to a town or the duties of citizens|municipal,public,community||Voting is a [civic] duty.|Volunteers showed great [civic] spirit.
+cloud computing|n|ˌklaʊd kəmˈpjuːtɪŋ|storing and processing data on remote servers via the internet|||[Cloud computing] lets startups grow cheaply.|Most apps now rely on [cloud computing].
+coexist|v|ˌkəʊɪɡˈzɪst|to exist together at the same time or place|live together,cohabit|conflict|Different cultures [coexist] peacefully in the city.|Tradition and technology can [coexist].
+collaboration|n|kəˌlæbəˈreɪʃn|working together with others to create something|cooperation,partnership,teamwork|competition|The film was a [collaboration] between two studios.|Research thrives on international [collaboration].
+collaborative|adj|kəˈlæbərətɪv|done by people working together|cooperative,joint,team|individual,solo|We used a [collaborative] approach to the project.|Wikipedia is a [collaborative] encyclopedia.
+colleague|n|ˈkɒliːɡ|a person you work with|co-worker,associate,peer||I discussed the idea with a [colleague].|Her [colleagues] respect her judgement.
+combat|v|ˈkɒmbæt|to try to stop something bad|fight,tackle,oppose|support,encourage|New laws aim to [combat] fraud.|We must [combat] climate change together.
+command|v|kəˈmɑːnd|to deserve and get; to give orders; to have a view over|order,earn,overlook|obey|Her work [commands] respect.|The castle [commands] a view of the whole valley.
+commercialize|v|kəˈmɜːʃəlaɪz|to sell or make money from something|market,monetize||The company [commercialized] its new battery technology.|Some feel the festival has been too [commercialized].
+compass|n|ˈkʌmpəs|an instrument for finding direction; range or scope|scope,range||The ancient Chinese invented the [compass].|Her moral [compass] guides her decisions.
+compassion|n|kəmˈpæʃn|sympathy and wish to help those who suffer|sympathy,kindness,empathy|cruelty,indifference|The nurse treated patients with [compassion].|We should show [compassion] to refugees.
+compassionate|adj|kəmˈpæʃənət|showing sympathy and care for others|kind,caring,sympathetic|cruel,heartless|He is a [compassionate] doctor.|The company has a [compassionate] leave policy.
+compelling|adj|kəmˈpelɪŋ|very interesting or convincing|convincing,persuasive,powerful|weak,unconvincing|She made a [compelling] argument.|The book tells a [compelling] story.
+competitive|adj|kəmˈpetətɪv|involving competition; able to compete well|aggressive,ambitious|uncompetitive|The job market is very [competitive].|We offer [competitive] prices.
+complex|adj|ˈkɒmpleks|having many connected parts; difficult to understand|complicated,intricate|simple,straightforward|Derivatives pricing is a [complex] subject.|The problem is more [complex] than it looks.
+concerted|adj|kənˈsɜːtɪd|done together with great effort|joint,united,coordinated|individual,uncoordinated|A [concerted] effort reduced air pollution.|Nations took [concerted] action against the virus.
+conch|n|kɒŋk|a large spiral sea shell|seashell||He blew into the [conch] like a trumpet.|We found a [conch] on the beach.
+confine|v|kənˈfaɪn|to keep within limits|restrict,limit,restrain|free,release|Please [confine] your answer to 200 words.|The disease was [confined] to one village.
+confront|v|kənˈfrʌnt|to face a difficult situation or person directly|face,tackle,challenge|avoid,evade|We must [confront] the problem honestly.|She [confronted] him about the missing money.
+consecutive|adj|kənˈsekjətɪv|following one after another without a break|successive,straight,in a row|intermittent|It rained for five [consecutive] days.|The team won its third [consecutive] title.
+conserve|v|kənˈsɜːv|to protect from harm or waste|preserve,save,protect|waste,squander|We must [conserve] water during the drought.|The park was created to [conserve] wildlife.
+construct|v|kənˈstrʌkt|to build something or form an idea|build,erect,create|destroy,demolish|They [constructed] a bridge across the river.|[Construct] a portfolio that minimizes risk.
+contaminated|adj|kənˈtæmɪneɪtɪd|made dirty or poisonous|polluted,dirty,tainted|clean,pure|The river was [contaminated] by chemicals.|Don't drink [contaminated] water.
+continual|adj|kənˈtɪnjuəl|happening repeatedly or without stopping|constant,repeated,ongoing|occasional|[Continual] interruptions made it hard to study.|The software needs [continual] updates.
+continuously|adv|kənˈtɪnjuəsli|without stopping|constantly,nonstop,uninterruptedly|intermittently|The machine runs [continuously] day and night.|Prices are updated [continuously].
+contribute|v|kənˈtrɪbjuːt|to give or help to cause something|give,donate,add to|withhold|Everyone [contributed] ideas to the project.|Smoking [contributes] to heart disease.
+convene|v|kənˈviːn|to arrange or gather for a formal meeting|assemble,gather,call|dismiss,adjourn|The committee will [convene] next week.|Leaders [convened] in Beijing for the summit.
+converge|v|kənˈvɜːdʒ|to come together at one point|meet,merge,join|diverge|The two roads [converge] near the bridge.|Our views gradually [converged].
+convergence|n|kənˈvɜːdʒəns|the process of coming together|merging,union|divergence|There is a [convergence] of media and technology.|Price [convergence] happened across markets.
+coordination|n|kəʊˌɔːdɪˈneɪʃn|organizing people or parts to work well together|organization,cooperation,harmony|disorganization|Better [coordination] between departments is needed.|Dancing requires good [coordination].
+copycat|n|ˈkɒpikæt|someone who copies others and has no original ideas|imitator,mimic|originator|Many [copycat] apps appeared after its success.|Don't be a [copycat]; find your own style.
+cosmic|adj|ˈkɒzmɪk|relating to the universe; extremely large|universal,celestial,vast||Scientists study [cosmic] rays from deep space.|It was a mistake of [cosmic] proportions.
+counterattack|n|ˈkaʊntərətæk|an attack made in response to an attack|counteroffensive,retaliation||The army launched a [counterattack].|The team scored on a fast [counterattack].
+courtyard|n|ˈkɔːtjɑːd|an open area surrounded by walls or buildings|yard,quadrangle,patio||A siheyuan is built around a [courtyard].|Children played in the [courtyard].
+credential|n|krəˈdenʃl|a qualification or document showing your abilities|qualification,certificate||The FRM is a respected [credential] in risk management.|Check the [credentials] of the speaker.
+criticism|n|ˈkrɪtɪsɪzəm|comments expressing disapproval; judgement of a work|disapproval,critique,censure|praise,approval|The plan faced strong [criticism].|Learn to accept [criticism] calmly.
+cubic|adj|ˈkjuːbɪk|relating to volume (length × width × height)|||The tank holds ten [cubic] metres of water.|Gas is measured in [cubic] feet.
+cultivate|v|ˈkʌltɪveɪt|to grow crops; to develop a skill or relationship|grow,develop,nurture|neglect|Farmers [cultivate] rice in the valley.|[Cultivate] good habits early.
+curriculum|n|kəˈrɪkjələm|the subjects included in a course of study|syllabus,programme,course||The [curriculum] includes probability and econometrics.|Python is not yet in our [curriculum].
+custodian|n|kʌˈstəʊdiən|a person responsible for taking care of something|guardian,keeper,caretaker||Museums are [custodians] of our heritage.|The bank acts as [custodian] of the assets.
+cyberspace|n|ˈsaɪbəspeɪs|the online world of computer networks|the internet,the web||Information travels instantly through [cyberspace].|Laws must also apply in [cyberspace].

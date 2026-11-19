@@ -1,0 +1,30 @@
+---
+import '@fontsource-variable/inter';
+import '@fontsource/charis-sil/400.css';
+import '@fontsource/charis-sil/700.css';
+import '../styles/app.css';
+import { icon } from '../scripts/icons';
+const tabs = [['home', 'home', 'Home'], ['vocab', 'book', 'Vocab'], ['phon', 'wave', 'Phonetics'], ['stats', 'chart', 'Stats'], ['settings', 'sliders', 'Settings']];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#1f9d55" />
+    <meta name="description" content="Personal English trainer: vocabulary and British IPA phonetics." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/icon-192.png" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <title>Albert's English Trainer</title>
+  </head>
+  <body>
+    <main id="app"></main>
+    <nav class="tabs">
+      {tabs.map(([id, ic, label]) => <a href={`#${id}`} data-tab={id}><span set:html={icon(ic)} />{label}</a>)}
+    </nav>
+    <script>
+      import '../scripts/main.ts';
+    </script>
+  </body>
+</html>

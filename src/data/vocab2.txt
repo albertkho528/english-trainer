@@ -1,0 +1,101 @@
+dawn|n|dɔːn|the start of the day; the beginning of something|daybreak,sunrise,beginning|dusk,end|We set off at [dawn].|This is the [dawn] of a new era of AI.
+debug|v|ˌdiːˈbʌɡ|to find and remove errors in a computer program|troubleshoot,fix||It took hours to [debug] the code.|Use print statements to [debug] your script.
+debut|n|ˈdeɪbjuː|the first public appearance or performance|first appearance,launch,premiere|farewell|The singer made her [debut] at nineteen.|The new phone's [debut] attracted huge crowds.
+dedicated|adj|ˈdedɪkeɪtɪd|working hard because you care; made for one purpose|committed,devoted,specialized|uncommitted|She is a [dedicated] teacher.|The lab has a [dedicated] server for simulations.
+dedication|n|ˌdedɪˈkeɪʃn|hard work and commitment to something|commitment,devotion,diligence|apathy|Success requires [dedication] and patience.|We admire her [dedication] to her patients.
+deforestation|n|diːˌfɒrɪˈsteɪʃn|cutting down large areas of forest|logging,clearance|reforestation|[Deforestation] is a major cause of climate change.|The Amazon suffers from [deforestation].
+deftly|adv|ˈdeftli|quickly and skilfully|skilfully,nimbly,adroitly|clumsily|She [deftly] avoided the difficult question.|The chef [deftly] sliced the vegetables.
+degradation|n|ˌdeɡrəˈdeɪʃn|the process of becoming worse in quality|deterioration,decline,damage|improvement|Land [degradation] reduces crop yields.|Environmental [degradation] harms wildlife.
+degrade|v|dɪˈɡreɪd|to make or become worse in quality|damage,deteriorate,spoil|improve,enhance|Plastic takes centuries to [degrade].|Pollution [degrades] the soil.
+delegate|n|ˈdelɪɡət|a person chosen to represent a group at a meeting|representative,envoy,deputy||[Delegates] from 50 countries attended the conference.|She was elected as a student [delegate].
+deliberate|adj|dɪˈlɪbərət|done on purpose; careful and slow|intentional,planned,careful|accidental,unintentional|It was a [deliberate] attempt to mislead.|He spoke in a slow, [deliberate] way.
+democracy|n|dɪˈmɒkrəsi|a system in which people choose their government by voting|self-government|dictatorship|[Democracy] depends on informed citizens.|Many countries became [democracies] in the 20th century.
+democratic|adj|ˌdeməˈkrætɪk|based on equality and voting|representative,egalitarian|authoritarian|The decision was made in a [democratic] way.|They held [democratic] elections.
+demographic|adj|ˌdeməˈɡræfɪk|relating to the structure of a population|population||An ageing population is a [demographic] challenge.|The survey collected [demographic] data.
+density|n|ˈdensəti|how crowded or heavy something is in relation to its size|concentration,compactness|sparseness|Hong Kong has a high population [density].|The [density] of water is 1 g/cm³.
+dental|adj|ˈdentl|relating to teeth|||Regular [dental] check-ups are important.|She studies [dental] medicine.
+deploy|v|dɪˈplɔɪ|to put into use or position for action|use,utilize,position|withdraw|The company [deployed] the new app last week.|Troops were [deployed] to the border.
+desertification|n|dɪˌzɜːtɪfɪˈkeɪʃn|the process of land becoming desert|land degradation||Tree planting helps fight [desertification].|[Desertification] threatens farmers in the north.
+designate|v|ˈdezɪɡneɪt|to officially choose or name something for a purpose|appoint,name,assign||The area was [designated] a nature reserve.|She was [designated] as team leader.
+destiny|n|ˈdestəni|what will happen to someone in the future; fate|fate,fortune,future||He believes he can shape his own [destiny].|The two nations share a common [destiny].
+deterioration|n|dɪˌtɪəriəˈreɪʃn|the process of becoming worse|decline,worsening,degradation|improvement|There was a [deterioration] in his health.|The [deterioration] of the old bridge worried engineers.
+devastate|v|ˈdevəsteɪt|to destroy or damage badly; to make someone very upset|destroy,ruin,wreck|restore|The typhoon [devastated] the coast.|She was [devastated] by the news.
+diagnostics|n|ˌdaɪəɡˈnɒstɪks|methods of identifying problems or diseases|testing,analysis||The car's [diagnostics] found an engine fault.|AI is improving medical [diagnostics].
+disastrous|adj|dɪˈzɑːstrəs|very bad or unsuccessful|catastrophic,ruinous,terrible|successful|The launch was [disastrous].|Ignoring risk can have [disastrous] results.
+dispatch|v|dɪˈspætʃ|to send someone or something somewhere|send,deliver,transmit|receive|Rescue teams were [dispatched] immediately.|Your order will be [dispatched] tomorrow.
+disposable|adj|dɪˈspəʊzəbl|meant to be thrown away after use; available to spend|throwaway,single-use,available|reusable,durable|The city is banning [disposable] plastic cups.|[Disposable] income rose last year.
+disrupt|v|dɪsˈrʌpt|to interrupt or prevent something from continuing normally|interrupt,disturb,upset|maintain|Snow [disrupted] train services.|Fintech has [disrupted] traditional banking.
+distribute|v|dɪˈstrɪbjuːt|to give out or spread among people or places|hand out,allocate,spread|collect,gather|Volunteers [distributed] food to families.|Returns are [distributed] normally in this model.
+diversion|n|daɪˈvɜːʃn|a change of route or purpose; something that distracts|detour,distraction,rerouting||The water [diversion] project brings water north.|Traffic took a [diversion] around the city.
+domestically|adv|dəˈmestɪkli|within a country|nationally,at home|internationally,abroad|Most cars are now produced [domestically].|The product sells well [domestically] and abroad.
+dominant|adj|ˈdɒmɪnənt|most powerful or important|leading,main,prevailing|minor,subordinate|English is the [dominant] language of business.|The firm holds a [dominant] market position.
+drenched|adj|drentʃt|completely wet|soaked,wet through,saturated|dry|We were [drenched] by the sudden rain.|The field was [drenched] in sunlight.
+drone|n|drəʊn|an aircraft without a pilot, controlled remotely|unmanned aircraft,UAV||[Drones] deliver packages in some cities.|The light show used 1,000 [drones].
+drumbeat|n|ˈdrʌmbiːt|the sound of a drum; a steady repeated message|beat,rhythm||The [drumbeat] grew louder.|There is a steady [drumbeat] of calls for reform.
+dual|adj|ˈdjuːəl|having two parts or uses|double,twofold|single|She holds [dual] citizenship.|The room serves a [dual] purpose.
+dyke|n|daɪk|a wall built to stop water from flooding|embankment,levee,dam||The Dutch built [dykes] to hold back the sea.|Farmers repaired the broken [dyke].
+earthen|adj|ˈɜːθn|made of earth or clay|clay,mud||They lived in [earthen] houses.|The tea was served in an [earthen] pot.
+echo|v|ˈekəʊ|to repeat a sound or idea|repeat,reflect,mirror||Her words [echoed] in the empty hall.|His speech [echoed] the views of many students.
+economy|n|ɪˈkɒnəmi|the system of trade, industry and money in a country|financial system,market||China's [economy] grew rapidly.|The [economy] slowed down last quarter.
+elaborate|adj|ɪˈlæbərət|having many detailed parts|detailed,complex,intricate|simple,plain|They made [elaborate] plans for the wedding.|The temple has [elaborate] carvings.
+electrification|n|ɪˌlektrɪfɪˈkeɪʃn|the process of bringing electricity to an area or machine|||Rural [electrification] improved village life.|The [electrification] of transport cuts emissions.
+embed|v|ɪmˈbed|to fix firmly inside something|insert,implant,fix|remove|Sensors are [embedded] in the road.|Respect is [embedded] in their culture.
+embody|v|ɪmˈbɒdi|to represent an idea or quality clearly|represent,personify,exemplify||The Great Wall [embodies] Chinese history.|She [embodies] the spirit of the team.
+embrace|v|ɪmˈbreɪs|to accept eagerly; to hug|accept,welcome,adopt|reject|Young people quickly [embrace] new technology.|They [embraced] at the airport.
+emission|n|iˈmɪʃn|gas or energy sent out into the air|discharge,release||Carbon [emissions] must be cut.|Cars must meet strict [emission] standards.
+emit|v|iˈmɪt|to send out gas, light, heat or sound|release,give off,discharge|absorb|Factories [emit] smoke into the air.|The device [emits] a beep.
+empathetic|adj|ˌempəˈθetɪk|able to understand other people's feelings|understanding,sympathetic,compassionate|unsympathetic|A good leader is [empathetic].|She gave an [empathetic] reply.
+empathy|n|ˈempəθi|the ability to understand others' feelings|understanding,compassion,sympathy|indifference|Doctors need [empathy] as well as skill.|Reading novels builds [empathy].
+empowerment|n|ɪmˈpaʊəmənt|giving people power or confidence to control their lives|enabling,emancipation||Education leads to women's [empowerment].|The programme focuses on youth [empowerment].
+endangered|adj|ɪnˈdeɪndʒəd|at risk of dying out|threatened,at risk|thriving|The snow leopard is an [endangered] species.|Several [endangered] languages are being recorded.
+endeavor|n|ɪnˈdevə|a serious effort to do something|effort,attempt,undertaking||Space exploration is a costly [endeavor].|We wish you success in all your [endeavors].
+endurance|n|ɪnˈdjʊərəns|the ability to continue despite difficulty|stamina,persistence,resilience|weakness|Marathons test your [endurance].|The rescue showed incredible [endurance].
+enduring|adj|ɪnˈdjʊərɪŋ|lasting for a long time|lasting,long-lasting,permanent|temporary,fleeting|Confucius has had an [enduring] influence.|Their [enduring] friendship began at school.
+enrich|v|ɪnˈrɪtʃ|to improve the quality of something by adding to it|improve,enhance,enlarge|impoverish|Travel [enriches] your life.|The soil was [enriched] with fertilizer.
+enrollment|n|ɪnˈrəʊlmənt|the act of officially joining a course or school; the number joining|registration,admission||[Enrollment] in online courses has doubled.|Bring your passport for [enrollment].
+entrepreneurship|n|ˌɒntrəprəˈnɜːʃɪp|starting and running new businesses|enterprise,business||The university encourages [entrepreneurship].|[Entrepreneurship] involves taking risks.
+equip|v|ɪˈkwɪp|to provide with the tools or skills needed|supply,provide,prepare||The lab is [equipped] with modern computers.|The course [equips] students with coding skills.
+essence|n|ˈesns|the most basic and important quality of something|core,heart,nature||The [essence] of investing is managing risk.|Kindness is the [essence] of good manners.
+eternal|adj|ɪˈtɜːnl|lasting forever|everlasting,endless,permanent|temporary,brief|They promised [eternal] friendship.|The river seemed [eternal].
+ethic|n|ˈeθɪk|a set of moral principles|principle,value,code||She has a strong work [ethic].|The [ethic] of public service guides him.
+ethical|adj|ˈeθɪkl|morally right; relating to moral principles|moral,principled,honest|unethical,immoral|Is it [ethical] to test on animals?|The fund only makes [ethical] investments.
+evacuate|v|ɪˈvækjueɪt|to move people from a dangerous place|clear,remove,empty||Residents were [evacuated] before the flood.|Please [evacuate] the building now.
+evident|adj|ˈevɪdənt|clear and easy to see|obvious,clear,apparent|unclear,hidden|It was [evident] that she was nervous.|His talent is [evident] in his work.
+evoke|v|ɪˈvəʊk|to bring a feeling or memory into the mind|arouse,call up,suggest|suppress|The smell [evoked] memories of my childhood.|The music [evokes] a sense of peace.
+evolution|n|ˌiːvəˈluːʃn|gradual development over time|development,progress,growth|regression|The [evolution] of Chinese characters fascinates scholars.|Darwin explained the [evolution] of species.
+evolve|v|iˈvɒlv|to develop gradually|develop,grow,progress|regress|Languages [evolve] over time.|The company [evolved] from a small startup.
+exceed|v|ɪkˈsiːd|to be greater than; to go beyond|surpass,outdo,go beyond|fall short|Her performance [exceeded] our expectations.|Do not [exceed] the speed limit.
+excel|v|ɪkˈsel|to be extremely good at something|shine,stand out,be outstanding|fail|She [excels] at mathematics.|The team [excelled] in every competition.
+execute|v|ˈeksɪkjuːt|to carry out a plan or order|carry out,perform,implement||The trade was [executed] in milliseconds.|They [executed] the plan perfectly.
+executive|n|ɪɡˈzekjətɪv|a senior manager in a company|manager,director,officer||She is a senior [executive] at a bank.|[Executives] met to discuss strategy.
+exemplify|v|ɪɡˈzemplɪfaɪ|to be a typical example of something|illustrate,represent,embody||This building [exemplifies] modern design.|Her career [exemplifies] hard work.
+exoskeleton|n|ˌeksəʊˈskelɪtn|a hard outer covering; a wearable robotic frame that adds strength|||The robotic [exoskeleton] helps him walk again.|Insects have an [exoskeleton].
+expertise|n|ˌekspɜːˈtiːz|special skill or knowledge|skill,knowledge,know-how|ignorance|We need someone with [expertise] in risk modelling.|She has [expertise] in web design.
+exploitation|n|ˌeksplɔɪˈteɪʃn|unfair use of people; use of resources|abuse,misuse,utilization||Laws protect workers from [exploitation].|The [exploitation] of coal shaped the region.
+expressway|n|ɪkˈspresweɪ|a wide road for fast traffic|motorway,highway,freeway||The new [expressway] cut travel time in half.|Traffic was heavy on the [expressway].
+exquisite|adj|ɪkˈskwɪzɪt|extremely beautiful and delicate|beautiful,delicate,fine|crude,ugly|The museum has [exquisite] jade carvings.|The food was [exquisite].
+extensive|adj|ɪkˈstensɪv|large in amount or area; covering a lot|wide,broad,comprehensive|limited,narrow|She has [extensive] experience in teaching.|The storm caused [extensive] damage.
+extracurricular|adj|ˌekstrəkəˈrɪkjələ|outside the normal school curriculum|||He joined many [extracurricular] activities.|[Extracurricular] work strengthens your CV.
+extremism|n|ɪkˈstriːmɪzəm|holding extreme political or religious views|radicalism,fanaticism|moderation|Education can help prevent [extremism].|The leaders condemned violent [extremism].
+fabulous|adj|ˈfæbjələs|extremely good|wonderful,fantastic,marvellous|awful,terrible|We had a [fabulous] time in Singapore.|She wore a [fabulous] dress.
+faculty|n|ˈfæklti|teaching staff of a university; a natural ability|staff,department,ability||The [faculty] includes several NUS graduates.|He lost the [faculty] of speech.
+faint|adj|feɪnt|weak; not clear|weak,dim,slight|strong,clear|There was a [faint] smell of smoke.|I have a [faint] memory of that day.
+farewell|n|ˌfeəˈwel|an act of saying goodbye|goodbye,parting|greeting,welcome|They held a [farewell] party for the teacher.|She waved [farewell] at the station.
+fascinating|adj|ˈfæsɪneɪtɪŋ|extremely interesting|captivating,gripping,intriguing|boring,dull|Quantum physics is [fascinating].|We heard a [fascinating] talk.
+fatigue|n|fəˈtiːɡ|extreme tiredness|exhaustion,tiredness,weariness|energy|He was suffering from [fatigue].|Metal [fatigue] caused the crack.
+federal|adj|ˈfedərəl|relating to the central government of a country made of states|national,central|local|The US [federal] government sets interest policy.|[Federal] laws apply in every state.
+feedback|n|ˈfiːdbæk|opinions about how well someone has done something|comments,response,evaluation||The teacher gave helpful [feedback].|We welcome customer [feedback].
+fieldwork|n|ˈfiːldwɜːk|research done in the real world, not in a lab|field research||The sociologist did [fieldwork] in rural villages.|[Fieldwork] taught them much more than books.
+firewood|n|ˈfaɪəwʊd|wood used as fuel|kindling,logs||They collected [firewood] for the winter.|The stove burns [firewood].
+flatten|v|ˈflætn|to make or become flat|level,smooth,squash||The storm [flattened] the crops.|Policies aimed to [flatten] the curve.
+flee|v|fliː|to escape quickly from danger|escape,run away,flee from|stay,remain|Thousands [fled] the war.|The thief [fled] the scene.
+flexibility|n|ˌfleksəˈbɪləti|the ability to change or bend easily|adaptability,versatility|rigidity|Remote work offers more [flexibility].|Yoga improves [flexibility].
+flourish|v|ˈflʌrɪʃ|to grow or develop successfully|thrive,prosper,bloom|decline,wither|Trade [flourished] along the Silk Road.|Plants [flourish] in warm weather.
+footprint|n|ˈfʊtprɪnt|a mark left by a foot; the impact or space something takes up|track,impact||We should reduce our carbon [footprint].|The company expanded its global [footprint].
+forge|v|fɔːdʒ|to create something strong through effort; to make an illegal copy|build,establish,fake|break|The two schools [forged] a strong partnership.|He [forged] his manager's signature.
+formation|n|fɔːˈmeɪʃn|the process of forming; a particular arrangement|creation,development,arrangement||Rock [formations] in the canyon are stunning.|Birds flew in a V [formation].
+foster|v|ˈfɒstə|to encourage something to develop|encourage,promote,nurture|suppress,hinder|The programme [fosters] creativity.|Sport [fosters] team spirit.
+framework|n|ˈfreɪmwɜːk|a basic structure or set of ideas|structure,system,basis||The law provides a [framework] for regulation.|Astro is a web [framework].
+fresco|n|ˈfreskəʊ|a painting done on wet plaster on a wall|mural,wall painting||The Dunhuang caves are famous for their [frescoes].|Artists restored the ancient [fresco].
+fuse|v|fjuːz|to join or combine together|merge,combine,blend|separate|The chef [fuses] Chinese and French cuisine.|The bones had [fused] together.
+futuristic|adj|ˌfjuːtʃəˈrɪstɪk|very modern and advanced, looking like the future|advanced,ultramodern|old-fashioned|Shanghai has a [futuristic] skyline.|The car has a [futuristic] design.

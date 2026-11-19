@@ -1,0 +1,67 @@
+tag|n|tæɡ|a small label attached to something|label,ticket,sticker||Check the price [tag].|Add a [tag] to each photo.
+tan|n|tæn|a brown colour of skin after being in the sun|suntan||She got a [tan] on holiday.|He came back from Bali with a deep [tan].
+terrain|n|təˈreɪn|land of a particular type|landscape,ground,topography||The [terrain] in Tibet is rough.|Jeeps can cross difficult [terrain].
+testament|n|ˈtestəmənt|clear proof of something|proof,evidence,tribute||The bridge is a [testament] to Chinese engineering.|Her success is a [testament] to hard work.
+theoretical|adj|ˌθɪəˈretɪkl|based on theory rather than practice|hypothetical,abstract,academic|practical,applied|He studies [theoretical] physics.|The risk is only [theoretical].
+thirst|n|θɜːst|the need to drink; a strong desire|craving,desire,hunger||Water quenched our [thirst].|She has a [thirst] for knowledge.
+thread|n|θred|a long thin piece of cotton; a connected idea or series of messages|strand,fibre,theme||She sewed the button with red [thread].|I lost the [thread] of the argument.
+threshold|n|ˈθreʃhəʊld|the level at which something starts; a doorway|limit,starting point,doorway||Income above this [threshold] is taxed.|She stood at the [threshold] of a new career.
+thrilling|adj|ˈθrɪlɪŋ|very exciting|exciting,exhilarating,electrifying|boring|It was a [thrilling] final match.|Skydiving is a [thrilling] experience.
+thrive|v|θraɪv|to grow or develop very well|flourish,prosper,boom|decline,fail|Small businesses [thrive] in the area.|Some plants [thrive] in shade.
+tide|n|taɪd|the regular rise and fall of the sea; a trend|current,flow,trend||The [tide] comes in twice a day.|The [tide] of public opinion turned.
+timber|n|ˈtɪmbə|wood used for building|wood,lumber,logs||The house is built of [timber].|[Timber] exports have fallen.
+toil|v|tɔɪl|to work very hard for a long time|labour,work hard,slave|relax|Farmers [toiled] in the fields.|He [toiled] over his thesis.
+tolerance|n|ˈtɒlərəns|willingness to accept different opinions; ability to endure|acceptance,open-mindedness,endurance|intolerance|Diversity requires [tolerance].|Investors differ in risk [tolerance].
+tragic|adj|ˈtrædʒɪk|very sad, often involving death|sad,heartbreaking,disastrous|happy,comic|It was a [tragic] accident.|The story has a [tragic] ending.
+trail|n|treɪl|a path through countryside; a series of marks left behind|path,track,footpath||We hiked a mountain [trail].|The storm left a [trail] of destruction.
+transfer|v|trænsˈfɜː|to move from one place, person or job to another|move,shift,send||I [transferred] money to my account.|He [transferred] to a university in Singapore.
+transition|n|trænˈzɪʃn|a change from one state to another|change,shift,conversion||The [transition] to clean energy is urgent.|High school to university is a big [transition].
+transparent|adj|trænsˈpærənt|clear enough to see through; open and honest|clear,see-through,open|opaque,secretive|The bottle is made of [transparent] plastic.|Markets need [transparent] rules.
+tremor|n|ˈtremə|a slight shaking movement, especially of the earth|vibration,quake,shudder||A small [tremor] was felt in the city.|There was a [tremor] in her voice.
+tribute|n|ˈtrɪbjuːt|something said or done to show respect|homage,honour,praise|criticism|They paid [tribute] to the heroes.|The concert was a [tribute] to the singer.
+trillion|n|ˈtrɪljən|one million million (1,000,000,000,000)|||China's GDP is over 17 [trillion] dollars.|The fund manages a [trillion] in assets.
+tropical|adj|ˈtrɒpɪkl|relating to the hot regions near the equator|hot,humid,equatorial|polar|Batam has a [tropical] climate.|[Tropical] fruits grow all year.
+ultraviolet|adj|ˌʌltrəˈvaɪələt|light beyond violet that we cannot see|UV||Sunscreen protects against [ultraviolet] rays.|[Ultraviolet] light kills bacteria.
+unapproachable|adj|ˌʌnəˈprəʊtʃəbl|unfriendly and difficult to talk to|unfriendly,distant,aloof|approachable,friendly|The professor seemed [unapproachable] at first.|Don't look so [unapproachable].
+undergo|v|ˌʌndəˈɡəʊ|to experience a process, especially change or treatment|experience,go through,endure||The city has [undergone] huge changes.|She [underwent] surgery last year.
+underpin|v|ˌʌndəˈpɪn|to support or form the basis of something|support,underlie,strengthen|undermine|Strong maths [underpins] financial engineering.|Trust [underpins] the relationship.
+underscore|v|ˌʌndəˈskɔː|to emphasize that something is important|emphasize,highlight,stress|downplay|The crisis [underscored] the need for reform.|She [underscored] the importance of practice.
+uneven|adj|ʌnˈiːvn|not flat or smooth; not equal|irregular,unequal,bumpy|even,smooth|Be careful on the [uneven] path.|Growth has been [uneven] across regions.
+unfold|v|ʌnˈfəʊld|to open something folded; to develop or happen|develop,happen,open|fold|We watched events [unfold] on TV.|She [unfolded] the map.
+unicorn|n|ˈjuːnɪkɔːn|a startup company valued at over one billion dollars; a mythical horse with a horn|||ByteDance became a [unicorn] early.|The [unicorn] is a creature of legend.
+unintentional|adj|ˌʌnɪnˈtenʃənl|not done on purpose|accidental,unplanned,inadvertent|deliberate,intentional|The mistake was [unintentional].|It was an [unintentional] insult.
+unity|n|ˈjuːnəti|the state of being joined together|harmony,togetherness,solidarity|division|National [unity] is important.|The team showed great [unity].
+universal|adj|ˌjuːnɪˈvɜːsl|involving everyone or everything|general,global,worldwide|specific,local|Music is a [universal] language.|The plan aims for [universal] healthcare.
+unmanned|adj|ʌnˈmænd|without people on board or working|pilotless,remote-controlled|manned|An [unmanned] probe landed on Mars.|[Unmanned] shops use AI cameras.
+unprecedented|adj|ʌnˈpresɪdentɪd|never having happened before|unparalleled,unheard-of,new|common,usual|The pandemic caused [unprecedented] disruption.|The city grew at an [unprecedented] rate.
+unrest|n|ʌnˈrest|angry protests or disturbance in society|disorder,turmoil,protest|peace,calm|Political [unrest] hurt the economy.|There was [unrest] in the capital.
+unwavering|adj|ʌnˈweɪvərɪŋ|not changing or becoming weaker|steady,firm,unshakeable|uncertain|Thank you for your [unwavering] support.|She showed [unwavering] commitment.
+upgrade|v|ʌpˈɡreɪd|to improve something or make it more modern|improve,update,enhance|downgrade|I [upgraded] my laptop's memory.|The airline [upgraded] us to business class.
+urbanization|n|ˌɜːbənaɪˈzeɪʃn|the process of more people moving to cities|city growth||Rapid [urbanization] created megacities.|[Urbanization] changes family life.
+utilize|v|ˈjuːtəlaɪz|to use something effectively|use,employ,make use of|waste|We [utilized] Python for the analysis.|The building [utilizes] solar energy.
+vendor|n|ˈvendə|a person or company that sells something|seller,supplier,trader|buyer|Street [vendors] sell snacks near campus.|The software [vendor] fixed the bug.
+verify|v|ˈverɪfaɪ|to check that something is true or correct|confirm,check,validate|disprove|Please [verify] your email address.|Always [verify] your data sources.
+versatile|adj|ˈvɜːsətaɪl|able to be used in many ways; having many skills|adaptable,flexible,multipurpose|limited|Python is a [versatile] language.|She is a [versatile] athlete.
+via|prep|ˈvaɪə|through or by way of|through,by way of,by means of||We flew to Jakarta [via] Singapore.|Send the file [via] email.
+vibrant|adj|ˈvaɪbrənt|full of life and energy; bright|lively,dynamic,bright|dull,lifeless|Beijing has a [vibrant] nightlife.|The painting uses [vibrant] colours.
+vigilance|n|ˈvɪdʒɪləns|careful attention to possible danger|watchfulness,alertness,caution|carelessness|[Vigilance] is needed to prevent fraud.|Thanks to their [vigilance], the fire was stopped.
+vigor|n|ˈvɪɡə|strength and energy|energy,vitality,strength|weakness|He worked with great [vigor].|The economy recovered its [vigor].
+vocational|adj|vəʊˈkeɪʃənl|relating to skills needed for a particular job|professional,occupational,practical|academic|She attended a [vocational] school.|[Vocational] training prepares students for work.
+vulnerable|adj|ˈvʌlnərəbl|easily hurt or attacked|exposed,weak,at risk|protected,resilient|Children are [vulnerable] to disease.|The system is [vulnerable] to hackers.
+weave|v|wiːv|to make cloth by crossing threads; to combine elements into a story|interlace,knit,blend||They [weave] silk by hand.|She [wove] personal stories into her speech.
+wetland|n|ˈwetlənd|an area of land covered with water, like a marsh|marsh,swamp,bog||[Wetlands] protect against floods.|Birds migrate through the [wetland].
+wheelchair|n|ˈwiːltʃeə|a chair with wheels for people who cannot walk|||The building is [wheelchair] accessible.|He plays [wheelchair] basketball.
+workforce|n|ˈwɜːkfɔːs|all the people who work in a company or country|staff,labour force,employees||China has a huge [workforce].|The company trained its [workforce] in AI.
+yardstick|n|ˈjɑːdstɪk|a standard used to judge something|benchmark,standard,measure||Profit is not the only [yardstick] of success.|GDP is a common economic [yardstick].
+yield|v|jiːld|to produce a result or crop; to give way|produce,generate,give way|resist|The bond [yields] 4% a year.|The experiment [yielded] interesting results.
+cutting-edge|adj|ˌkʌtɪŋ ˈedʒ|the most modern and advanced|state-of-the-art,advanced,pioneering|outdated|The lab uses [cutting-edge] equipment.|She works on [cutting-edge] AI research.
+grassroots|adj|ˈɡrɑːsruːts|involving ordinary people rather than leaders|community,local,popular||A [grassroots] movement started in the village.|The campaign had [grassroots] support.
+groundbreaking|adj|ˈɡraʊndbreɪkɪŋ|new and very important|innovative,revolutionary,pioneering|conventional|It was a [groundbreaking] discovery.|The film used [groundbreaking] effects.
+hands-on|adj|ˌhændz ˈɒn|involving practical experience|practical,applied,direct|theoretical|The course gives [hands-on] coding practice.|She has a [hands-on] management style.
+high-rise|adj|ˈhaɪ raɪz|very tall with many floors|tall,multi-storey|low-rise|They live in a [high-rise] apartment.|[High-rise] buildings fill the skyline.
+start-up|n|ˈstɑːt ʌp|a new small company|new business,venture||He joined a fintech [start-up].|[Start-ups] need funding to grow.
+state-of-the-art|adj|ˌsteɪt əv ði ˈɑːt|using the latest technology|cutting-edge,modern,advanced|outdated|The hospital has [state-of-the-art] equipment.|The stadium is [state-of-the-art].
+well-being|n|ˌwel ˈbiːɪŋ|the state of being healthy and happy|welfare,health,happiness|misery|Sleep is important for your [well-being].|The school cares about student [well-being].
+forward-thinking|adj|ˌfɔːwəd ˈθɪŋkɪŋ|planning for the future in an innovative way|progressive,visionary,innovative|conservative|The company has a [forward-thinking] leader.|It is a [forward-thinking] policy.
+make-up|n|ˈmeɪk ʌp|the parts or people that form something; cosmetics|composition,structure,cosmetics||The ethnic [make-up] of the city is diverse.|She wears little [make-up].
+set-up|n|ˈset ʌp|the way something is organized or arranged|arrangement,system,organization||The new office [set-up] works well.|I like my study [set-up].
